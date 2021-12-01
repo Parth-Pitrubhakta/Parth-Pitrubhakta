@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth-Pitrubhakta
-- 👀 I’m interested in software development and android app development.
-- 🌱 I’m currently learning competitive coding and android studio.
+- 👀 I’m interested inandroid app development.
+- 🌱 I’m currently learning competitive coding and android development.
 
 <!---
 Parth-Pitrubhakta/Parth-Pitrubhakta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
