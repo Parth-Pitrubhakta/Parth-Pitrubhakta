@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parth-Pitrubhakta
-- 👀 I’m interested inandroid app development.
+- 👀 I’m interested in android app development.
 - 🌱 I’m currently learning competitive coding and android development.
 
 <!---
