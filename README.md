@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Parth-Pitrubhakta
-- 👀 I’m interested in android app development.
+- 👀 I’m technology enthusiast and aspiring android developer.
 - 🌱 I’m currently practicing DSA in Java.
 
 <!---
